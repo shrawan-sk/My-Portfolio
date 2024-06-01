@@ -1,0 +1,14 @@
+.services {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .services ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .services ul li {
+    margin: 0.5rem 0;
+  }
+  

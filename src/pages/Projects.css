@@ -1,0 +1,22 @@
+.projects {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .project-item {
+    width: 300px;
+    border: 1px solid #ddd;
+    padding: 1rem;
+  }
+  
+  .project-item img {
+    width: 100%;
+  }
+  
